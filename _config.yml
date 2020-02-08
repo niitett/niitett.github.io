@@ -54,9 +54,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Gilbert Tetteh"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Jesus/Tax Administration/Data Engineering/Tech/Travel."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
