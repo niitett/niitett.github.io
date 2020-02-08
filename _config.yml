@@ -58,7 +58,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Jesus/Tax Administration/Data Engineering/Tech/Travel."
   links:
-    - label: "Website"
+    - label: "https://www.giltgh.blogspot.com"
       icon: "fas fa-fw fa-link"
       url: "https://www.giltgh.blogspot.com"
     - label: "https://twitter.com/giltgh"
